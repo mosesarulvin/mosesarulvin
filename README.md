@@ -1,4 +1,4 @@
-# Hi there, I'm Arulvin G! 👋
+# Hi there, I'm Moses Arulvin! 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio.com-blue?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
@@ -12,7 +12,7 @@
 I'm a passionate **Software Engineer** with **7+ years of experience** in designing, developing, and testing web and mobile applications. I specialize in building scalable, user-friendly applications using modern technologies like **React, Node.js, MongoDB, and AWS**. I love solving complex problems and delivering high-quality solutions that drive business growth.
 
 - 🔭 I’m currently working on **[OPTUM - Capillary](#)**.
-- 🌱 I’m learning **Building scalable and high-performance applications**.
+- 🌱 I’m building **scalable and high-performance applications**.
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative ideas**.
 - 💬 Ask me about **web development, RESTful APIs, or cloud computing**.
 - ⚡ Fun fact: I love **exploring new technologies and contributing to open source**.
