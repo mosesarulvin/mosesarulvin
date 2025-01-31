@@ -93,7 +93,7 @@ I'm a passionate **Software Engineer** with **7+ years of experience** in design
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via:
 
 - **Email**: [mosesarulvin@gmail.com](mailto:mosesarulvin@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/moses-arulvin)
 - **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
 
 ---
